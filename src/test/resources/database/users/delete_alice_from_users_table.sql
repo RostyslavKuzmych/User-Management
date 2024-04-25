@@ -1,0 +1,1 @@
+delete from users where email = 'alice@gmail.com';

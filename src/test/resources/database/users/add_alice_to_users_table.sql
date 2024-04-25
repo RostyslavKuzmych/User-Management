@@ -1,0 +1,1 @@
+insert into users(id, email, first_name, last_name, birth_date, address, phone_number) VALUES (1, 'alice@gmail.com', 'Alice', 'Johnson', '2002-02-02', 'Lisova 45', '+380985454523')
